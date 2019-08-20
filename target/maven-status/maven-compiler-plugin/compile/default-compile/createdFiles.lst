@@ -1,0 +1,17 @@
+com\wipro\spring\web\dao\OfferRowMapper.class
+com\wipro\spring\web\validation\ValidEmail.class
+com\wipro\spring\web\controllers\OffersController.class
+com\wipro\spring\web\dao\OffersDao.class
+com\wipro\spring\web\service\UsersService.class
+com\wipro\spring\web\dao\UsersDao.class
+com\wipro\spring\web\controllers\LoginController.class
+com\wipro\spring\web\controllers\ErrorHandler.class
+com\wipro\spring\web\validation\ValidEmailImpl.class
+com\wipro\spring\web\dao\Offer.class
+com\wipro\spring\web\dao\MessagesDao.class
+com\wipro\spring\web\service\OffersService.class
+com\wipro\spring\web\dao\PersistenceValidationGroup.class
+com\wipro\spring\web\dao\Message.class
+com\wipro\spring\web\controllers\HomeController.class
+com\wipro\spring\web\dao\User.class
+com\wipro\spring\web\dao\FormValidationGroup.class

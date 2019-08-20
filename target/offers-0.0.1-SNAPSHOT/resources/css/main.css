@@ -1,0 +1,114 @@
+@CHARSET "ISO-8859-1";
+
+	.formtable {
+		width: 600px; 
+		padding: 10px;
+		border: 1px solid blue;
+	}
+	
+	input[type=text], input[type=password] {
+		width: 250px;
+		padding-left: 10px;
+	}
+	
+	textarea{
+		width: 250px;
+		height: 250px;
+		padding-left: 10px;
+	}
+	
+	.label{
+		text-align: right;
+		vertical-align: top;
+	}
+	
+	.error{
+	 	font-size: small;
+	 	color: red;
+	 	margin-left: 10px;
+	}
+	.valid{
+	 	font-size: small;
+	 	color: green;
+	 	margin-left: 10px;
+	}
+	
+	p.error{
+		font-size: medium;
+	}
+	
+	table.offers{
+		padding: 10px;
+		border: 1px solid gray;
+	}
+	
+	div.footer {
+		font-size: small;
+		color: gray;
+	}
+	div.content {
+		position: relative;
+		padding: 40px;
+	}
+	div.header {
+		text-align: center;
+		width: 100%;
+		height: 40px;
+		background-color: red;
+	}
+	a.login {
+		position: absolute;
+		top: 15px;
+		right : 10px;
+		color: white;
+	}
+	a.title {
+		color: white;
+		font-size: 35px;
+	}
+	.delete {
+		background-color: red;
+	}
+	td.name {
+		width: 120px;
+	}
+	td.contact {
+		padding: 8px 18px;
+		vertical-align: top;
+	}
+	
+	table.offers td {
+		border-bottom: 1px dashed #ccc; 
+	}
+	
+	span.subject {
+		font-size: large;
+		color: #111;
+	}
+	span.messagebody {
+		display: block;
+	}
+	.message {
+		margin-bottom: 20px;
+		font-style: italic;
+		border-bottom: 2px dashed #ccc;
+	}
+	.name {
+		font-weight: 800;
+		color: blue;
+	}
+	form.replyform {
+		padding: 20px;
+		display: none;
+	}
+	textarea.replyarea {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	form.replyform input {
+		width: 100%;
+		padding: 8px 12px;
+		display: block;
+		color: #fff;
+		background-color: red;
+	}
